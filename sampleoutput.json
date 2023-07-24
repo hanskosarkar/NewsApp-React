@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Europe heatwave: Red alerts issued in 15 Italian cities",
+            "description": "Health warnings for Rome and elsewhere come as extreme weather scorches southern and central Europe.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66209147",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14D32/production/_130389258_2ef21052cf7df6e4aecba84f7571551ab32db5cf0_0_4955_33031000x667.jpg",
+            "publishedAt": "2023-07-15T04:52:12.8524155Z",
+            "content": "Red alerts have been issued for 15 cities across Italy as extreme heat continues to affect southern Europe. \r\nThe alerts, which indicate risks even for healthy people, apply to tourist hotspots inclu… [+4239 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Terms of Syrian offer on aid deliveries unacceptable, says UN",
+            "description": "Syria had said it would continue to allow aid through a border crossing relied on by 4.1 million people.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-66209143",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5C38/production/_130380632_babal-hawagettyimages-1518863285.jpg",
+            "publishedAt": "2023-07-15T03:52:16.5242512Z",
+            "content": "The United Nations has described as \"unacceptable\" the conditions placed by Syria in an offer to allow aid to keep reaching rebel-held territory.\r\nSyria's ambassador to the UN said on Thursday his go… [+3126 chars]"
+        }
+    ]
+}

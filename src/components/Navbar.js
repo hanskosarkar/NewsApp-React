@@ -13,7 +13,7 @@ const Navbar = () => {
     return (
 
         <>
-            <div className="navbar bg-slate-200 leading-10 py-1 sm:py-3 px-5 flex justify-between items-center border border-b-2 sm:justify-normal">
+            <div className="navbar sticky top-0 z-10 bg-slate-200 leading-10 py-1 sm:py-3 px-5 flex justify-between items-center border border-b-2 sm:justify-normal">
                 <div className="logo font-bold text-lg sm:text-xl lg:text-3xl sm:leading-[50px]">NewsApp</div>
                 <div className="menu sm:hidden">
                     <i className={`fa ${isMenuOpen ? "fa-xmark" : "fa-bars"} cursor-pointer`} id='hamburgerMenu' onClick={handleMenuClick}></i>
